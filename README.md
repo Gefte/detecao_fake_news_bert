@@ -27,3 +27,5 @@ https://www.youtube.com/watch?v=W7aORTUCAqQ&t=577s&ab_channel=UniversoDiscreto
 https://sol.sbc.org.br/index.php/stil/article/view/17784
 
 https://huggingface.co/neuralmind/bert-base-portuguese-cased
+
+http://www.nilc.icmc.usp.br/embeddings
